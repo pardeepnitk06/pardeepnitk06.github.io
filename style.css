@@ -1,0 +1,43 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    color: blue;
+    text-align: left;
+}
+
+table {
+    border: 2px solid red;
+    border-collapse: collapse;
+    padding: 5px;
+    width: 20%;
+}
+
+tr, th, td {
+    border: 1px solid red;
+    padding: 5px;
+    width: 20%;
+}
+
+#top{
+    width: 20%; 
+}
+#middle{
+    width: 50%;
+    text-align: center;
+}
+
+#bottom {
+    width: 30%;
+}
+
+.name {
+    font-style: normal;
+    font: bold;
+}
+.inputForm {
+    width: 20%;
+    
+}
